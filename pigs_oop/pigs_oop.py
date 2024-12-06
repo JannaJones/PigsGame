@@ -1,6 +1,6 @@
 # %%
 
-from pacote.v1_0_classes import Jogador
+from pacote.classes_singleplayer import Jogador
 
 # Pigs destinado a prática de POO em Python.
 

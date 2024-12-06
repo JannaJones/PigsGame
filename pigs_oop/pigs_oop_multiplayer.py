@@ -1,6 +1,6 @@
 # %% Usando listas
 
-from pacote.v1_1_classes import Jogador, Jogo
+from pacote.classes_multiplayer import Jogador, Jogo
 
 j = Jogo()
 j.start_jogo()
